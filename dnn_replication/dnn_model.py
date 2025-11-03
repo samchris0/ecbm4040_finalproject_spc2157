@@ -1,0 +1,2 @@
+#In this module we will build a DNN model trained on each market and evaluate its performance on all markets. 
+#I will then train a DNN model trained on all markets together and evaluate its performance
