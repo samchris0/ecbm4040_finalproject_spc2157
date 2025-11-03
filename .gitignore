@@ -1,0 +1,17 @@
+#Ignore venv
+.venv/
+
+#Ignore cached datasets
+datasets/
+
+# Ignore large data files
+*.csv
+*.h5
+*.pkl
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# Ignore vscode
+.vscode/

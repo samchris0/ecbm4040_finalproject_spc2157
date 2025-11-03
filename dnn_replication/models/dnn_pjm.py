@@ -7,7 +7,7 @@ nlayers = 2
 # has to be provided, where the file has to be a csv file
 dataset = 'NP'
 
-# Number of years (a year is 364 days) in the test dataset.
+# Number of years (a year is 364 days) in the test dataset
 years_test = 2
 
 # Optional parameters for selecting the test dataset, if either of them is not provided, 
