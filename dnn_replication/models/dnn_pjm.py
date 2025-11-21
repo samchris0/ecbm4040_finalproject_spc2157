@@ -1,4 +1,4 @@
-from epftoolbox.epftoolbox.models import hyperparameter_optimizer
+from epftoolbox.models import hyperparameter_optimizer
 
 # Number of layers in DNN
 nlayers = 2
